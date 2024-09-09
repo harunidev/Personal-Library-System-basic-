@@ -12,7 +12,7 @@
             "name": "MySQLLocal",
             "database": "library_system",
             "username": "root",
-            "password": "Harunisik00.",
+            "password": "*********.",
             "connectionTimeout": 15
         }
     ]
